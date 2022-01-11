@@ -6,3 +6,9 @@ d.php
 e.html
 f.Codeigniter
 g.Bootstrap
+h.Laravel
+i.git
+j.github
+k.Linux
+l.C++
+M.Pascal
