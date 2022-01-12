@@ -1,5 +1,6 @@
 Rencana saya kedepan
 
+-Harus bisa memahami program dengan baik 
 -Html
 -belajar boostrap
 -CSS
