@@ -2,8 +2,10 @@ Rencana saya kedepan
 
 -Html
 -belajar boostrap
+-CSS
 -php
 -javascript
 -Php mvc
 -Laravel
+
 
